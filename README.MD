@@ -8,6 +8,7 @@ Criação de uma API de epísodeos e personagens de rick and morty
 ### 📄Documentação do Projeto
 
 #### 🖥️Tecnologias
+
 - Html
 - CSS
 - JavaScript
